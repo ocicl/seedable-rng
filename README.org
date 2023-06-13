@@ -1,0 +1,10 @@
+* seedable-rng
+
+Mirror of https://git.mfiano.net/mfiano/seedable-rng
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/seedable-rng.git   |
+| commit  | 0df2130  |
+| systems | seedable-rng |
+|---------+-------------------------------------------|
+
